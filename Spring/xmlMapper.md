@@ -38,3 +38,4 @@ class ServiceTest {
     }
 }
 ```
+- response 내의 태그(person)와 클래스 생성자 프로퍼티(person)가 같아야 함..
